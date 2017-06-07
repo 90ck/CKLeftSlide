@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 //菜单的显示区域占屏幕宽度的百分比
-static CGFloat MenuWidthScale = 0.8f;
+static CGFloat MenuWidthScale = 0.75f;
 //遮罩层最高透明度
 static CGFloat MaxCoverAlpha = 0.2f;
 
