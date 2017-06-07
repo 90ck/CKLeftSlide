@@ -6,7 +6,7 @@
 
 #### 效果图
 
-![LefeSlide](/Users/caike/workSpace/iOS/CKLeftSlide/LefeSlide.gif)
+![LefeSlide](LefeSlide.gif)
 
 #### 使用
 
